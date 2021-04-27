@@ -1,2 +1,2 @@
-# cpp_ci_gtest_template
+# C++ CI GTest Template
 Template repository for C++ Project with CMake, GTest and Gitlab CI
